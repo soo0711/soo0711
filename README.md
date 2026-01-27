@@ -7,8 +7,15 @@
 <div style="text-align: left;"> 
     📧 k300hys1257@gmail.com
 </div>  
-</div>
-<br/>
+</div> <br> 
+
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Certificate </h2>
+<div style="text-align: left;"> 
+    • 정보처리기사<br>
+    • SQLD (SQL Developer)
+</div>  
+</div> <br> 
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
