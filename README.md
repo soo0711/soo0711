@@ -22,7 +22,7 @@
 <p>단일 교내 동아리 'Leets' 커뮤니티 앱 서버 백엔드 개발 및 최적화</p>
 
 <h3> * Leets </h3>
-<p style="color: gray;"><em>2025.03 ~ 2026.08</em></p>
+<p style="color: gray;"><em>2025.03 ~ 2025.08</em></p>
 <p>교내 IT/개발 동아리 'Leets' 활동 및 백엔드 파트 참여</p>
 
 </div>  
